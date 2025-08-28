@@ -1,0 +1,15 @@
+C:\Users\salak403\Santiago_Rueda_Habitaciones\Habitaciones\bin\Debug\net9.0\Habitaciones.exe
+C:\Users\salak403\Santiago_Rueda_Habitaciones\Habitaciones\bin\Debug\net9.0\Habitaciones.deps.json
+C:\Users\salak403\Santiago_Rueda_Habitaciones\Habitaciones\bin\Debug\net9.0\Habitaciones.runtimeconfig.json
+C:\Users\salak403\Santiago_Rueda_Habitaciones\Habitaciones\bin\Debug\net9.0\Habitaciones.dll
+C:\Users\salak403\Santiago_Rueda_Habitaciones\Habitaciones\bin\Debug\net9.0\Habitaciones.pdb
+C:\Users\salak403\Santiago_Rueda_Habitaciones\Habitaciones\obj\Debug\net9.0\Habitaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak403\Santiago_Rueda_Habitaciones\Habitaciones\obj\Debug\net9.0\Habitaciones.AssemblyInfoInputs.cache
+C:\Users\salak403\Santiago_Rueda_Habitaciones\Habitaciones\obj\Debug\net9.0\Habitaciones.AssemblyInfo.cs
+C:\Users\salak403\Santiago_Rueda_Habitaciones\Habitaciones\obj\Debug\net9.0\Habitaciones.csproj.CoreCompileInputs.cache
+C:\Users\salak403\Santiago_Rueda_Habitaciones\Habitaciones\obj\Debug\net9.0\Habitaciones.sourcelink.json
+C:\Users\salak403\Santiago_Rueda_Habitaciones\Habitaciones\obj\Debug\net9.0\Habitaciones.dll
+C:\Users\salak403\Santiago_Rueda_Habitaciones\Habitaciones\obj\Debug\net9.0\refint\Habitaciones.dll
+C:\Users\salak403\Santiago_Rueda_Habitaciones\Habitaciones\obj\Debug\net9.0\Habitaciones.pdb
+C:\Users\salak403\Santiago_Rueda_Habitaciones\Habitaciones\obj\Debug\net9.0\Habitaciones.genruntimeconfig.cache
+C:\Users\salak403\Santiago_Rueda_Habitaciones\Habitaciones\obj\Debug\net9.0\ref\Habitaciones.dll
